@@ -8,4 +8,4 @@ Although the instructions said to not use any dependencies besides `axios`, I us
 
 ## Things I Would Improve
 
-- The `useDebounce()` hook doesn't work as expected yet but I would follow through with approach
+- The `useDebounce()` hook doesn't work as expected yet but given more time I would follow through with the approach.
